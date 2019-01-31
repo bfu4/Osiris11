@@ -1,0 +1,124 @@
+2019-01-31 20:54:19 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7feae4db9120; archive(resolved)='<IDEArchive: 0x7feb03950ad0>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodDevelopmentSigned: 0x7feb02a3cf10>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7feb015b27c0; teamID='DNEE7P35Q6', teamName='Tina Fusari', teamType='Individual', username='tfusari@aol.com', isFreeProvisioningTeam='0'>'>
+	Chain (12, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7feae4db9120; archive = '<IDEArchive: 0x7feb03950ad0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7feb02a3cf10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7feb015b27c0; teamID='DNEE7P35Q6', teamName='Tina Fusari', teamType='Individual', username='tfusari@aol.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7feae508a820; archive = '<IDEArchive: 0x7feb03950ad0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7feb02a3cf10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7feb015b27c0; teamID='DNEE7P35Q6', teamName='Tina Fusari', teamType='Individual', username='tfusari@aol.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7feae5335800; archive = '<IDEArchive: 0x7feb03950ad0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7feb02a3cf10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7feb015b27c0; teamID='DNEE7P35Q6', teamName='Tina Fusari', teamType='Individual', username='tfusari@aol.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7feb03a88650; archive = '<IDEArchive: 0x7feb03950ad0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7feb02a3cf10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7feb015b27c0; teamID='DNEE7P35Q6', teamName='Tina Fusari', teamType='Individual', username='tfusari@aol.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7feb03adcb90; archive = '<IDEArchive: 0x7feb03950ad0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7feb02a3cf10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7feb015b27c0; teamID='DNEE7P35Q6', teamName='Tina Fusari', teamType='Individual', username='tfusari@aol.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7feb03894fb0; archive = '<IDEArchive: 0x7feb03950ad0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7feb02a3cf10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7feb015b27c0; teamID='DNEE7P35Q6', teamName='Tina Fusari', teamType='Individual', username='tfusari@aol.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7feb03631780; archive = '<IDEArchive: 0x7feb03950ad0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7feb02a3cf10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7feb015b27c0; teamID='DNEE7P35Q6', teamName='Tina Fusari', teamType='Individual', username='tfusari@aol.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7feb03849010; archive = '<IDEArchive: 0x7feb03950ad0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7feb02a3cf10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7feb015b27c0; teamID='DNEE7P35Q6', teamName='Tina Fusari', teamType='Individual', username='tfusari@aol.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7feb03af5130; archive = '<IDEArchive: 0x7feb03950ad0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7feb02a3cf10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7feb015b27c0; teamID='DNEE7P35Q6', teamName='Tina Fusari', teamType='Individual', username='tfusari@aol.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7feb03a86fd0; archive = '<IDEArchive: 0x7feb03950ad0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7feb02a3cf10>', team='(null)'>
+	<IDEDistributionContext: 0x7feb03aaed80; archive = '<IDEArchive: 0x7feb03950ad0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7feb02a3cf10>', team='(null)'>
+	<IDEDistributionContext: 0x7feb00d530c0; archive = '<IDEArchive: 0x7feb03950ad0>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7feae4db9120>
+2019-01-31 20:54:19 +0000  Processing step: IDEDistributionCreateDestRootStep
+2019-01-31 20:54:19 +0000  Processing step: IDEDistributionCopyItemStep
+2019-01-31 20:54:19 +0000  Running /usr/bin/ditto '-V' '/Users/bellafusari/Library/Developer/Xcode/Archives/2019-01-31/Osiris12JB 1-31-19, 3.43 PM.xcarchive/Products/Applications/Osiris12JB.app' '/var/folders/xf/pjdnj8pj6blcb6b04prt9xs00000gn/T/XcodeDistPipeline.0ms/Root/Payload/Osiris12JB.app'
+2019-01-31 20:54:19 +0000  >>> Copying /Users/bellafusari/Library/Developer/Xcode/Archives/2019-01-31/Osiris12JB 1-31-19, 3.43 PM.xcarchive/Products/Applications/Osiris12JB.app 
+2019-01-31 20:54:19 +0000  
+2019-01-31 20:54:19 +0000  copying file ./_CodeSignature/CodeResources ... 
+2019-01-31 20:54:19 +0000  4757 bytes for ./_CodeSignature/CodeResources
+2019-01-31 20:54:19 +0000  copying file ./AppIcon60x60@2x.png ... 
+2019-01-31 20:54:19 +0000  32438 bytes for ./AppIcon60x60@2x.png
+2019-01-31 20:54:19 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2019-01-31 20:54:19 +0000  964 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2019-01-31 20:54:19 +0000  4807 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2019-01-31 20:54:19 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2019-01-31 20:54:19 +0000  258 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2019-01-31 20:54:19 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2019-01-31 20:54:19 +0000  2329 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2019-01-31 20:54:19 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2019-01-31 20:54:19 +0000  832 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2019-01-31 20:54:19 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2019-01-31 20:54:19 +0000  copying file ./Osiris12JB ... 
+2019-01-31 20:54:19 +0000  127312 bytes for ./Osiris12JB
+copying file ./README ... 
+2019-01-31 20:54:19 +0000  22090 bytes for ./README
+2019-01-31 20:54:19 +0000  copying file ./Assets.car ... 
+2019-01-31 20:54:19 +0000  1436680 bytes for ./Assets.car
+copying file ./AppIcon76x76@2x~ipad.png ... 
+2019-01-31 20:54:19 +0000  45394 bytes for ./AppIcon76x76@2x~ipad.png
+copying file ./embedded.mobileprovision ... 
+2019-01-31 20:54:19 +0000  7548 bytes for ./embedded.mobileprovision
+2019-01-31 20:54:19 +0000  copying file ./Info.plist ... 
+2019-01-31 20:54:19 +0000  1556 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+2019-01-31 20:54:19 +0000  8 bytes for ./PkgInfo
+2019-01-31 20:54:19 +0000  /usr/bin/ditto exited with 0
+2019-01-31 20:54:19 +0000  Processing step: IDEDistributionEmbedProfileStep
+2019-01-31 20:54:19 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2019-01-31 20:54:19 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2019-01-31 20:54:19 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2019-01-31 20:54:19 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2019-01-31 20:54:19 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2019-01-31 20:54:19 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2019-01-31 20:54:19 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-01-31 20:54:19 +0000  Processing step: IDEDistributionSymbolsStep
+2019-01-31 20:54:19 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-01-31 20:54:19 +0000  Processing step: IDEDistributionAppThinningStep
+2019-01-31 20:54:19 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2019-01-31 20:54:19 +0000  Processing step: IDEDistributionArchThinningStep
+2019-01-31 20:54:19 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xf/pjdnj8pj6blcb6b04prt9xs00000gn/T/XcodeDistPipeline.0ms/Root/Payload/Osiris12JB.app/Osiris12JB' '-verify_arch' 'arm64e'
+2019-01-31 20:54:19 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-01-31 20:54:19 +0000  Skipping architecture thinning for item "Osiris12JB" because arch "arm64e" wasn't found
+2019-01-31 20:54:19 +0000  Processing step: IDEDistributionODRStep
+2019-01-31 20:54:19 +0000  Processing step: IDEDistributionStripXattrsStep
+2019-01-31 20:54:19 +0000  Running /usr/bin/xattr '-crs' '/var/folders/xf/pjdnj8pj6blcb6b04prt9xs00000gn/T/XcodeDistPipeline.0ms/Root/Payload/Osiris12JB.app'
+2019-01-31 20:54:20 +0000  /usr/bin/xattr exited with 0
+2019-01-31 20:54:20 +0000  Processing step: IDEDistributionCodesignStep
+2019-01-31 20:54:20 +0000  Entitlements for <IDEDistributionItem: 0x7feb02a962f0 'com.bfu.ios' '<DVTFilePath:0x7feb037b1690:'/Users/bellafusari/Library/Developer/Xcode/Archives/2019-01-31/Osiris12JB 1-31-19, 3.43 PM.xcarchive/Products/Applications/Osiris12JB.app'>'>: {
+    "application-identifier" = "DNEE7P35Q6.com.bfu.ios";
+    "com.apple.developer.team-identifier" = DNEE7P35Q6;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "DNEE7P35Q6.com.bfu.ios"
+    );
+}
+2019-01-31 20:54:20 +0000  Writing entitlements for <IDEDistributionItem: 0x7feb02a962f0 'com.bfu.ios' '<DVTFilePath:0x7feb037b1690:'/Users/bellafusari/Library/Developer/Xcode/Archives/2019-01-31/Osiris12JB 1-31-19, 3.43 PM.xcarchive/Products/Applications/Osiris12JB.app'>'> to: /var/folders/xf/pjdnj8pj6blcb6b04prt9xs00000gn/T/XcodeDistPipeline.0ms/entitlementsQ8d3Fy
+2019-01-31 20:54:20 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'FD2B570C3015C3046946F8ADC04E9613E47C6354' '--entitlements' '/var/folders/xf/pjdnj8pj6blcb6b04prt9xs00000gn/T/XcodeDistPipeline.0ms/entitlementsQ8d3Fy' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xf/pjdnj8pj6blcb6b04prt9xs00000gn/T/XcodeDistPipeline.0ms/Root/Payload/Osiris12JB.app'
+2019-01-31 20:54:20 +0000  /var/folders/xf/pjdnj8pj6blcb6b04prt9xs00000gn/T/XcodeDistPipeline.0ms/Root/Payload/Osiris12JB.app: replacing existing signature
+2019-01-31 20:54:31 +0000  /var/folders/xf/pjdnj8pj6blcb6b04prt9xs00000gn/T/XcodeDistPipeline.0ms/Root/Payload/Osiris12JB.app: signed app bundle with Mach-O thin (arm64) [com.bfu.ios]
+2019-01-31 20:54:31 +0000  /usr/bin/codesign exited with 0
+2019-01-31 20:54:31 +0000  Processing step: IDEDistributionZipODRItemStep
+2019-01-31 20:54:31 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-01-31 20:54:31 +0000  Processing step: IDEDistributionCreateIPAStep
+2019-01-31 20:54:31 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/xf/pjdnj8pj6blcb6b04prt9xs00000gn/T/XcodeDistPipeline.0ms/Root' '/var/folders/xf/pjdnj8pj6blcb6b04prt9xs00000gn/T/XcodeDistPipeline.0ms/Packages/Osiris12JB.ipa'
+2019-01-31 20:54:31 +0000  >>> Copying /var/folders/xf/pjdnj8pj6blcb6b04prt9xs00000gn/T/XcodeDistPipeline.0ms/Root 
+2019-01-31 20:54:31 +0000  copying file ./Payload/Osiris12JB.app/_CodeSignature/CodeResources ... 
+2019-01-31 20:54:31 +0000  4757 bytes for ./Payload/Osiris12JB.app/_CodeSignature/CodeResources
+copying file ./Payload/Osiris12JB.app/AppIcon60x60@2x.png ... 
+2019-01-31 20:54:31 +0000  32438 bytes for ./Payload/Osiris12JB.app/AppIcon60x60@2x.png
+2019-01-31 20:54:31 +0000  copying file ./Payload/Osiris12JB.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2019-01-31 20:54:31 +0000  964 bytes for ./Payload/Osiris12JB.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Payload/Osiris12JB.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+4807 bytes for ./Payload/Osiris12JB.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/Osiris12JB.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2019-01-31 20:54:31 +0000  258 bytes for ./Payload/Osiris12JB.app/Base.lproj/Main.storyboardc/Info.plist
+copying file ./Payload/Osiris12JB.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2329 bytes for ./Payload/Osiris12JB.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/Osiris12JB.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2019-01-31 20:54:31 +0000  832 bytes for ./Payload/Osiris12JB.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/Osiris12JB.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2019-01-31 20:54:31 +0000  258 bytes for ./Payload/Osiris12JB.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+2019-01-31 20:54:31 +0000  copying file ./Payload/Osiris12JB.app/Osiris12JB ... 
+2019-01-31 20:54:31 +0000  127296 bytes for ./Payload/Osiris12JB.app/Osiris12JB
+2019-01-31 20:54:31 +0000  copying file ./Payload/Osiris12JB.app/README ... 
+2019-01-31 20:54:31 +0000  22090 bytes for ./Payload/Osiris12JB.app/README
+2019-01-31 20:54:31 +0000  copying file ./Payload/Osiris12JB.app/Assets.car ... 
+2019-01-31 20:54:31 +0000  1436680 bytes for ./Payload/Osiris12JB.app/Assets.car
+copying file ./Payload/Osiris12JB.app/AppIcon76x76@2x~ipad.png ... 
+2019-01-31 20:54:31 +0000  45394 bytes for ./Payload/Osiris12JB.app/AppIcon76x76@2x~ipad.png
+copying file ./Payload/Osiris12JB.app/embedded.mobileprovision ... 
+10320 bytes for ./Payload/Osiris12JB.app/embedded.mobileprovision
+copying file ./Payload/Osiris12JB.app/Info.plist ... 
+1556 bytes for ./Payload/Osiris12JB.app/Info.plist
+copying file ./Payload/Osiris12JB.app/PkgInfo ... 
+8 bytes for ./Payload/Osiris12JB.app/PkgInfo
+2019-01-31 20:54:31 +0000  /usr/bin/ditto exited with 0
+2019-01-31 20:54:31 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2019-01-31 20:54:31 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2019-01-31 20:54:31 +0000  Processing step: IDEDistributionCreateManifestStep
