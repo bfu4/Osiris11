@@ -1,5 +1,5 @@
 # compiled
-old osiris ipa for ios 11 (compiled / edited) 
+old osiris ipa for ios 12 (compiled / edited) 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 original project links:
 * https://github.com/pwn20wndstuff/Osiris
